@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+
+button{
+    /* display: ; */
+    display: flex;
+    justify-content: space-between;
+    margin-top: 17px;
+    width:40%;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+}
+.clas{
+    margin: auto;
+}
+.dev-3{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.dev-2{
+    width: 50%;
+    height: auto;
+    background-color: gray;
+    margin: 15% 5% 15% 30%;
+
+}
+input{
+    display: inline;
+    justify-content: space-evenly;
+    margin: 5% 5%;
+    padding: 10px;
+}
+.dev-4{
+    display: flex;
+    justify-content: space-around;
+}
+h4{
+    padding-left: 45%;
+    font-size: x-large;
+    margin-block: 5%;
+}
